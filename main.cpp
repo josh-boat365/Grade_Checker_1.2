@@ -518,7 +518,7 @@ return GPA;
 	
 			}
 
-else{cout<<"\n	Next Time I Quess\n\n";
+else{cout<<"\n	Next Time I Guess\n\n";
 
 }
 
